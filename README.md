@@ -6,3 +6,8 @@ Learning C++ and Data Structures
 Interested in software development and problem solving
 
 Goal: Build strong software development skills and contribute to real-world projects
+
+## Projects
+
+### Portfolio Building Journey
+A collection of my learning activities, coding practice, GitHub work, and projects developed during my CSE journey.
