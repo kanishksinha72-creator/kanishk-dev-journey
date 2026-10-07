@@ -4,3 +4,5 @@ I am a CSE student at REVA University, learning programming, data structures, da
 
 Learning C++ and Data Structures
 Interested in software development and problem solving
+
+Goal: Build strong software development skills and contribute to real-world projects
